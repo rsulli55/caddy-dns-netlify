@@ -4,7 +4,7 @@ go 1.17
 
 require github.com/caddyserver/caddy/v2 v2.4.0
 
-require github.com/rsulli55/libdns-netlify v0.0.0-20231028021917-3683cfdcc7d1
+require github.com/rsulli55/libdns-netlify v0.0.0-20231028025351-da7e41e878d2
 
 require (
 	github.com/asaskevich/govalidator v0.0.0-20210307081110-f21760c49a8d // indirect
